@@ -7,6 +7,8 @@
 
 ### 🧰 What you need to have ready
 
+---
+
 - An active AWS account
 
 - Basic familiarity with AWS Console
@@ -18,6 +20,8 @@
 ---
 
 ### 📦 Part 1: Create an AWS EC2 Instance
+
+---
 
 - **Log in** to your AWS Management Console.
 
@@ -41,6 +45,8 @@
 
 ### 🔐 Part 2: Create & Configure a Security Group
 
+---
+
 - Under *Network settings → Firewall (security groups)*:
    - Click **Create security group**.
 
@@ -61,6 +67,8 @@
 ---
 
 ### 🚫 Part 3: Attempt SSH Access (Expect Failure)
+
+---
 
 
 ### 🖥 macOS/Linux (Using Terminal)
